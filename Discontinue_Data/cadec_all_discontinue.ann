@@ -1,0 +1,675 @@
+ARTHROTEC.105	ADR	60,68,70,74	swelling face	
+ARTHROTEC.105	ADR	60,68,76,82	swelling wrists	
+ARTHROTEC.105	ADR	60,68,84,91	swelling abdomen	
+ARTHROTEC.105	ADR	60,68,93,99	swelling thighs	
+ARTHROTEC.112	ADR	58,73,98,123	uterine, cramps (menopausal for 20 years)	
+ARTHROTEC.117	ADR	169,178,191,214	affecting my stomach(acid reflux)	
+ARTHROTEC.121	ADR	60,73,93,100	ulceration of stomach	
+ARTHROTEC.121	ADR	385,392,407,416	feeling depressed	
+ARTHROTEC.122	ADR	323,328,357,370	urine full of blood	
+ARTHROTEC.13	ADR	168,184,193,197,209,225	menstrual cramps with vaginal bleeding	
+ARTHROTEC.13	ADR	168,184,201,208,209,225	menstrual cramps without vaginal bleeding	
+ARTHROTEC.140	ADR	35,49,75,92	blood pressure slightly elevated	
+ARTHROTEC.21	ADR	126,132,175,182	period another	
+ARTHROTEC.3	ADR	509,515,522,526	muscle pain	
+ARTHROTEC.35	ADR	87,129,135,165	menstrual cycle is completely out of whack bleeding several times a month	
+ARTHROTEC.49	ADR	39,53,63,67	intense pelvic pain	
+ARTHROTEC.6	ADR	152,161,166,181	abdominal cramps and pain	
+ARTHROTEC.6	ADR	466,475,480,486	abdominal cramps	
+ARTHROTEC.6	ADR	466,475,491,501	abdominal discomfort	
+ARTHROTEC.68	ADR	311,315,329,339	pain unbearable	
+ARTHROTEC.71	ADR	43,49,60,67,68,76	severe uterine cramping	
+ARTHROTEC.71	ADR	43,49,50,55,68,76	severe colon cramping	
+ARTHROTEC.73	ADR	10,25,41,74	post-menopausal and have now had a six day period	
+ARTHROTEC.82	ADR	180,184,191,197	pain severe	
+ARTHROTEC.95	ADR	91,95,115,123	feet swelling	
+ARTHROTEC.95	ADR	100,106,115,123	ankles swelling	
+DICLOFENAC-SODIUM.7	ADR	411,415,432,440	rena  failure	
+LIPITOR.1000	ADR	0,8,29,33	Shoulder pain	
+LIPITOR.1000	ADR	10,14,29,33	knee pain	
+LIPITOR.1000	ADR	16,21,29,33	elbow pain	
+LIPITOR.108	ADR	18,25,39,46	loss of stamina	
+LIPITOR.11	ADR	724,742,752,761	muscle aches in my shoulders	
+LIPITOR.11	ADR	724,742,766,776	muscle aches in my lower back	
+LIPITOR.110	ADR	86,96,110,118	Difficulty speaking	
+LIPITOR.111	ADR	40,47,62,69	pain in muscles	
+LIPITOR.113	ADR	104,108,119,123	back pain	
+LIPITOR.114	ADR	595,598,606,611	low pulse	
+LIPITOR.116	ADR	25,42,56,62	severe leg muscle cramps	
+LIPITOR.12	ADR	44,53,71,77	decreased libido	
+LIPITOR.12	ADR	125,133,144,149	tingling hands	
+LIPITOR.122	ADR	116,126,131,135	changes in mood	
+LIPITOR.122	ADR	116,126,140,157	changes in physical activity	
+LIPITOR.124	ADR	49,55,64,76	hardly lift my arms	
+LIPITOR.124	ADR	136,142,152,159	muscle wasting	
+LIPITOR.13	ADR	131,135,147,151	bone pain	
+LIPITOR.133	ADR	753,761,772,779	physical changes	
+LIPITOR.134	ADR	222,227,233,243	sight gets tired	
+LIPITOR.135	ADR	196,205,211,216	Could not sleep	
+LIPITOR.14	ADR	119,128,143,149	inflammed bursae	
+LIPITOR.14	ADR	241,251,266,272	burning of ankles	
+LIPITOR.141	ADR	21,28,50,54	pain in neck	
+LIPITOR.141	ADR	21,28,37,45	pain in shoulder	
+LIPITOR.156	ADR	289,307,314,322	Major stiffness in shoulder	
+LIPITOR.18	ADR	0,6,7,15,31,35	Severe shoulder pain	
+LIPITOR.18	ADR	0,6,20,30,31,35	Severe upper body pain	
+LIPITOR.182	ADR	137,147,164,168	pinches in skin	
+LIPITOR.183	ADR	860,866,872,876	muscle pain	
+LIPITOR.184	ADR	51,56,84,91	elbow painful	
+LIPITOR.185	ADR	20,33,44,50	pain in every muscle	
+LIPITOR.189	ADR	8,15,23,27	numbing feet	
+LIPITOR.19	ADR	0,7,15,22	Pain in muscles	
+LIPITOR.19	ADR	0,7,27,33	Pain in joints	
+LIPITOR.19	ADR	0,7,38,52	Pain in bottom of feet	
+LIPITOR.192	ADR	0,15,25,30	Muscle aches in chest	
+LIPITOR.194	ADR	222,241,257,262	aches and stiffness knees	
+LIPITOR.194	ADR	222,241,248,252	aches and stiffness hips	
+LIPITOR.204	ADR	221,235,242,247	sore and stiff knees	
+LIPITOR.204	ADR	221,235,249,255	sore and stiff ankles	
+LIPITOR.204	ADR	221,235,260,264	sore and stiff feet	
+LIPITOR.206	ADR	36,44,48,52	swelling feet	
+LIPITOR.206	ADR	36,44,57,62	swelling hands	
+LIPITOR.206	ADR	377,382,391,416	can't do anything with my hands	
+LIPITOR.207	ADR	29,46,53,59	charley horses in calves	
+LIPITOR.207	ADR	29,46,61,68	charley horses in abdomen	
+LIPITOR.207	ADR	29,46,70,77	charley horses in breasts	
+LIPITOR.207	ADR	29,46,79,88	charley horses in shoulders	
+LIPITOR.207	ADR	29,46,93,98	charley horses in sides	
+LIPITOR.207	ADR	283,300,304,308	charley horses in feet	
+LIPITOR.207	ADR	283,300,310,314	charley horses in legs	
+LIPITOR.207	ADR	283,300,316,323	charley horses in abdomen	
+LIPITOR.207	ADR	283,300,325,332	charley horses in breasts	
+LIPITOR.207	ADR	283,300,334,343	charley horses in shoulders	
+LIPITOR.207	ADR	283,300,345,350	charley horses in sides	
+LIPITOR.216	ADR	287,294,304,308	pain in neck	
+LIPITOR.216	ADR	287,294,298,302	pain in back	
+LIPITOR.217	ADR	61,81,95,102	pain traveling to my stomach	
+LIPITOR.219	ADR	114,121,134,142	Pain in forearms	
+LIPITOR.219	ADR	114,121,152,160	Pain in shoulder	
+LIPITOR.219	ADR	193,201,218,222	couldn't walk	
+LIPITOR.223	ADR	301,309,318,322	shoulder pain	
+LIPITOR.227	ADR	119,124,136,140	joint pain	
+LIPITOR.227	ADR	275,292,305,317	limits my ability climb stairs	
+LIPITOR.227	ADR	275,292,322,335	limits my ability lift anything	
+LIPITOR.23	ADR	175,190,202,208	permanent liver damage	
+LIPITOR.231	ADR	244,257,267,279	problems with coordination	
+LIPITOR.236	ADR	0,7,21,25	Pain in arms	
+LIPITOR.236	ADR	0,7,30,35	Pain in hands	
+LIPITOR.236	ADR	37,42,53,57	Hands numb	
+LIPITOR.236	ADR	37,42,62,71	Hands very weak	
+LIPITOR.24	ADR	0,21,37,43	severe muscle pain in ankles	
+LIPITOR.24	ADR	0,21,28,32	severe muscle pain in legs	
+LIPITOR.246	ADR	226,233,243,248	pain in hands	
+LIPITOR.246	ADR	226,233,257,261	pain in back	
+LIPITOR.246	ADR	226,233,268,278	pain in upper legs	
+LIPITOR.247	ADR	96,110,126,129	severe pain in arm	
+LIPITOR.247	ADR	96,110,135,139	severe pain in hand	
+LIPITOR.254	ADR	95,116,129,139	SEVERE muscle pain in hip joints	
+LIPITOR.257	ADR	18,29,39,43	cramping in back	
+LIPITOR.257	ADR	45,53,67,80	Problems concentrating	
+LIPITOR.264	ADR	81,85,105,117	pain in both legs	
+LIPITOR.264	ADR	90,98,105,117	weakness in both legs	
+LIPITOR.269	ADR	425,443,454,459	decreased sense of taste	
+LIPITOR.269	ADR	890,896,907,911	muscle pain	
+LIPITOR.273	ADR	8,14,25,29	muscle pain	
+LIPITOR.273	ADR	66,77,84,89	tingling in hands	
+LIPITOR.273	ADR	66,77,103,107	tingling in legs	
+LIPITOR.273	ADR	66,77,112,116	tingling in arms	
+LIPITOR.273	ADR	345,351,362,367	muscle pains	
+LIPITOR.273	ADR	924,928,940,944	neck pain	
+LIPITOR.273	ADR	955,962,1005,1020	pain in Achilles tendon	
+LIPITOR.273	ADR	955,962,963,975,1031,1054	pain in every tendon on the back of the head	
+LIPITOR.274	ADR	91,100,113,118	aching in knees	
+LIPITOR.274	ADR	91,100,120,124	aching in hips	
+LIPITOR.274	ADR	91,100,127,131	aching in toes	
+LIPITOR.279	ADR	299,305,323,331	muscle knots up	
+LIPITOR.281	ADR	0,3,27,32	Jaw pains	
+LIPITOR.281	ADR	4,8,27,32	neck pains	
+LIPITOR.281	ADR	10,18,27,32	low back pains	
+LIPITOR.282	ADR	48,51,66,70	Hip pain	
+LIPITOR.282	ADR	53,57,66,70	back pain	
+LIPITOR.288	ADR	36,45,65,69	Unable to walk	
+LIPITOR.288	ADR	36,45,77,80	Unable to sit	
+LIPITOR.290	ADR	0,7,21,24	pain in arm	
+LIPITOR.292	ADR	227,232,244,248	joint pain	
+LIPITOR.295	ADR	711,733,744,748	loss of muscle mass in arms	
+LIPITOR.297	ADR	167,174,185,189	loss of hair	
+LIPITOR.3	ADR	101,116,150,154	extreme pain in neck	
+LIPITOR.300	ADR	218,221,227,234	HDL dropped	
+LIPITOR.302	ADR	0,13,24,28	Severe muscle pain	
+LIPITOR.309	ADR	0,6,17,22	muscle pains	
+LIPITOR.31	ADR	423,428,439,443	JOINT PAIN	
+LIPITOR.310	ADR	134,138,151,157	sore joints	
+LIPITOR.314	ADR	230,241,253,263	muscle pain in the leg	
+LIPITOR.314	ADR	230,241,264,273	muscle pain calf area	
+LIPITOR.314	ADR	230,241,282,292	muscle pain lower back	
+LIPITOR.315	ADR	12,16,30,34	back pain	
+LIPITOR.315	ADR	82,90,101,107	Edema of ankles	
+LIPITOR.315	ADR	178,190,224,238	could barely walk up stairs	
+LIPITOR.321	ADR	74,88,95,99	severe pain in hips	
+LIPITOR.321	ADR	74,88,101,105	severe pain in legs	
+LIPITOR.321	ADR	74,88,111,115	severe pain in feet	
+LIPITOR.322	ADR	0,18,26,40	muscle weakness in plantar muscle	
+LIPITOR.322	ADR	0,18,42,46	muscle weakness in back	
+LIPITOR.332	ADR	74,77,87,95	CPK elevated	
+LIPITOR.335	ADR	20,31,41,45	Severe knee pain	
+LIPITOR.339	ADR	79,85,111,120	ankles seized up	
+LIPITOR.339	ADR	87,91,111,120	feet seized up	
+LIPITOR.339	ADR	93,99,111,120	wrists seized up	
+LIPITOR.339	ADR	478,492,536,541	senistivity in scalp	
+LIPITOR.342	ADR	227,239,253,262	Stiffness in Leg Joint	
+LIPITOR.344	ADR	212,215,240,257	leg buzzing sensation	
+LIPITOR.344	ADR	300,307,323,332	muscles quivering	
+LIPITOR.346	ADR	243,248,278,287	urine corrosive	
+LIPITOR.346	ADR	400,415,422,426	muscle problems legs	
+LIPITOR.347	ADR	0,11,21,26	Severe back pains	
+LIPITOR.349	ADR	18,29,39,43	weakness in arms	
+LIPITOR.35	ADR	242,247,265,269	joint pain	
+LIPITOR.35	ADR	285,291,303,320	muscle in my angles hurt	
+LIPITOR.350	ADR	39,49,66,70	lower legs hurt	
+LIPITOR.352	ADR	22,47,64,68	very painful muscle aches back	
+LIPITOR.355	ADR	47,65,77,80	Muscle cramping in leg	
+LIPITOR.356	ADR	507,512,522,526	hands numb	
+LIPITOR.356	ADR	507,512,531,539	hands tingling	
+LIPITOR.357	ADR	877,883,889,898	memory confusion	
+LIPITOR.358	ADR	448,471,483,493	severe polyathralgia in leg joints	
+LIPITOR.359	ADR	718,722,765,769	pain neck	
+LIPITOR.36	ADR	168,173,183,189	Hands tender	
+LIPITOR.36	ADR	168,173,194,200	Hands tingle	
+LIPITOR.360	ADR	378,391,401,410	constant pain shoulders	
+LIPITOR.360	ADR	378,391,412,417	constant pain knees	
+LIPITOR.363	ADR	0,28,41,45	Intense and constant pain in arms	
+LIPITOR.363	ADR	0,28,32,36	Intense and constant pain in legs	
+LIPITOR.363	ADR	47,51,67,87	Legs painful to the touch	
+LIPITOR.365	ADR	239,249,275,289	joint pain very arthritic	
+LIPITOR.365	ADR	1464,1492,1503,1513	severe arthritis symptoms in hip joints	
+LIPITOR.368	ADR	443,446,456,460	hip hurt	
+LIPITOR.369	ADR	8,20,26,30,57,66	arm and neck hurt exploding	
+LIPITOR.371	ADR	11,17,29,36	aching muscles	
+LIPITOR.377	ADR	0,8,18,29	Shoulder muscle pain	
+LIPITOR.378	ADR	171,178,188,192	pain in legs	
+LIPITOR.380	ADR	25,39,51,55	MUSCLE PAIN IN NECK	
+LIPITOR.380	ADR	25,39,60,63	MUSCLE PAIN IN HIP	
+LIPITOR.386	ADR	147,156,169,174	cramps in hands	
+LIPITOR.386	ADR	176,183,196,201	pain in chest	
+LIPITOR.387	ADR	141,149,159,171	sense of eye drooping	
+LIPITOR.388	ADR	185,193,199,202	elevated BUN	
+LIPITOR.388	ADR	185,193,204,214	elevated Creatinine	
+LIPITOR.388	ADR	185,193,216,229	elevated urine albumin	
+LIPITOR.388	ADR	641,646,666,672	heart damage	
+LIPITOR.388	ADR	648,654,666,672	kidney damage	
+LIPITOR.389	ADR	154,158,167,171	back pain	
+LIPITOR.392	ADR	65,73,92,96	couldn't walk	
+LIPITOR.392	ADR	164,171,181,184	pain in leg	
+LIPITOR.400	ADR	22,38,53,57	charlie horse in feet	
+LIPITOR.400	ADR	251,264,282,288	tendonitis in elbows	
+LIPITOR.401	ADR	321,325,335,339	sore legs	
+LIPITOR.408	ADR	0,7,35,41	pain in joints	
+LIPITOR.414	ADR	80,91,103,117	arm fatigue in the triceps	
+LIPITOR.415	ADR	132,139,145,157	muscles deteriorated	
+LIPITOR.42	ADR	0,5,17,26	stiff quad area	
+LIPITOR.421	ADR	107,114,124,136	loss of productivity	
+LIPITOR.422	ADR	434,438,454,458	neck pain	
+LIPITOR.422	ADR	434,438,475,482	neck swollen	
+LIPITOR.425	ADR	0,11,21,25	Severe neck pain	
+LIPITOR.430	ADR	212,216,227,236	legs twitching	
+LIPITOR.432	ADR	54,65,72,80	Soreness in shoulder	
+LIPITOR.44	ADR	28,52,63,67	peripheral neuropathy in arms	
+LIPITOR.44	ADR	28,52,69,82	peripheral neuropathy in feet and legs	
+LIPITOR.441	ADR	284,291,307,312	muscles stiff	
+LIPITOR.441	ADR	284,291,317,330	muscles slightly sore	
+LIPITOR.446	ADR	220,238,245,251	vision close up is blurry	
+LIPITOR.451	ADR	13,24,42,46	swelling in knee	
+LIPITOR.454	ADR	62,66,87,91	Neck pain	
+LIPITOR.454	ADR	68,76,87,91	shoulder pain	
+LIPITOR.458	ADR	34,46,59,63	gas pains in back	
+LIPITOR.458	ADR	532,541,567,571	gas pains back	
+LIPITOR.460	ADR	17,21,45,63	eyes spaced out feeling	
+LIPITOR.461	ADR	124,135,164,172	Blood sugar elevated	
+LIPITOR.461	ADR	140,154,164,172	blood pressure elevated	
+LIPITOR.463	ADR	10,24,31,39	severe pain in shoulder	
+LIPITOR.465	ADR	601,608,658,663	muscles cramp	
+LIPITOR.465	ADR	760,772,781,784	tiredness in leg	
+LIPITOR.468	ADR	71,75,81,85	sore arms	
+LIPITOR.470	ADR	104,109,123,127	ankle pain	
+LIPITOR.470	ADR	110,114,123,127	knee pain	
+LIPITOR.470	ADR	115,118,123,127	leg pain	
+LIPITOR.473	ADR	34,41,62,66	pain in neck	
+LIPITOR.473	ADR	34,41,71,80	pain in shoulders	
+LIPITOR.475	ADR	52,56,66,74	head pressure	
+LIPITOR.478	ADR	46,53,112,119	muscles painful	
+LIPITOR.478	ADR	58,64,112,119	joints painful	
+LIPITOR.478	ADR	124,128,136,140	arms weak	
+LIPITOR.479	ADR	193,197,215,219	knee hurt	
+LIPITOR.48	ADR	32,48,58,73	Liver blood test mildly elevated	
+LIPITOR.48	ADR	153,159,170,174	muscle pain	
+LIPITOR.48	ADR	176,197,203,212	Burning sensations in shoulders	
+LIPITOR.48	ADR	176,197,217,228	Burning sensations in upper chest	
+LIPITOR.481	ADR	106,113,118,132	pain in shoulder joint	
+LIPITOR.486	ADR	11,17,24,28	muscle pain	
+LIPITOR.486	ADR	43,47,62,69	arms painful	
+LIPITOR.488	ADR	198,207,245,256	tightness in the neck	
+LIPITOR.490	ADR	16,22,32,40	muscle weakness	
+LIPITOR.494	ADR	60,64,73,81	hair thinning	
+LIPITOR.495	ADR	454,461,491,495	muscles weak	
+LIPITOR.496	ADR	80,87,103,113	Pain in lower back	
+LIPITOR.497	ADR	404,413,440,447	went down stamina	
+LIPITOR.497	ADR	404,413,428,435	went down muscles	
+LIPITOR.498	ADR	0,3,12,20	Leg cramping	
+LIPITOR.500	ADR	151,163,173,185	Difficult to keep balance	
+LIPITOR.502	ADR	383,397,407,410	severe pain in leg	
+LIPITOR.503	ADR	221,228,238,241	pain in hip	
+LIPITOR.503	ADR	221,228,252,263	pain in calf muscle	
+LIPITOR.507	ADR	13,19,34,38	muscle pain	
+LIPITOR.508	ADR	143,163,179,182	buzzing sensation in leg	
+LIPITOR.515	ADR	5,12,24,41	muscles tire very quickly	
+LIPITOR.519	ADR	380,384,393,397	back pain	
+LIPITOR.531	ADR	8,17,30,32,33,41	tightness in forearms	
+LIPITOR.531	ADR	8,17,30,32,46,50	tightness in legs	
+LIPITOR.531	ADR	22,29,30,32,46,50	fatigue in legs	
+LIPITOR.534	ADR	146,165,183,190	right hand has been hurting	
+LIPITOR.535	ADR	0,7,8,13,21,29	serious hands cramping	
+LIPITOR.535	ADR	0,7,16,20,21,29	serious feet cramping	
+LIPITOR.535	ADR	41,63,71,79	painful inflamation of knuckles	
+LIPITOR.54	ADR	61,72,87,93	cramping in calves	
+LIPITOR.54	ADR	61,72,98,108	cramping in hamstrings	
+LIPITOR.540	ADR	66,103,121,130	left leg, below the knee, experienced stiffness	
+LIPITOR.542	ADR	37,58,68,73	burning sensations in hands	
+LIPITOR.543	ADR	30,33,48,52	leg pain	
+LIPITOR.543	ADR	35,38,48,52	arm pain	
+LIPITOR.544	ADR	55,69,78,82	muscle atrophy Arms	
+LIPITOR.544	ADR	55,69,71,75	muscle atrophy legs	
+LIPITOR.548	ADR	315,320,332,345	crave carbohydrates	
+LIPITOR.552	ADR	25,38,49,56	left shoulder tingles	
+LIPITOR.553	ADR	92,110,121,125	muscle pain in the arms	
+LIPITOR.553	ADR	92,110,127,131	muscle pain in the legs	
+LIPITOR.556	ADR	182,198,206,210	joint pain in my hips	
+LIPITOR.556	ADR	182,198,212,222	joint pain in my lower back	
+LIPITOR.556	ADR	182,198,228,237	joint pain in my shoulders	
+LIPITOR.56	ADR	461,469,480,487	shoulder painful	
+LIPITOR.561	ADR	9,26,36,40	aching muscles in back	
+LIPITOR.562	ADR	254,300,307,311	intense muscle pain with intense burning in my neck	
+LIPITOR.562	ADR	254,300,329,333	intense muscle pain with intense burning in my legs	
+LIPITOR.563	ADR	231,238,248,253	swollen hands	
+LIPITOR.564	ADR	0,14,20,24	imence pain in calf	
+LIPITOR.564	ADR	0,14,25,29	imence pain in feet	
+LIPITOR.564	ADR	30,41,51,55	cramping in feet	
+LIPITOR.564	ADR	30,41,61,65	cramping in toes	
+LIPITOR.566	ADR	355,363,377,386	soreness in thighs	
+LIPITOR.567	ADR	3,7,17,24,25,35	legs started going numb	
+LIPITOR.567	ADR	3,7,17,24,40,48	legs started tingling	
+LIPITOR.567	ADR	12,16,17,24,40,48	arms started tingling	
+LIPITOR.568	ADR	70,87,94,99	sever swelling of hands	
+LIPITOR.568	ADR	70,87,104,110	sever swelling of ankles	
+LIPITOR.569	ADR	0,24,25,30,41,49	Severe (burning) pain in upper left arm	
+LIPITOR.569	ADR	0,24,35,40,41,49	Severe (burning) pain in lower left arm	
+LIPITOR.569	ADR	0,24,54,63	Severe (burning) pain in left hand	
+LIPITOR.569	ADR	65,74,84,97	stiffness in both knees	
+LIPITOR.570	ADR	0,14,28,38	Muscle Pain in upper back	
+LIPITOR.570	ADR	40,44,67,71	Hair loss	
+LIPITOR.570	ADR	158,162,172,180	hair breakage	
+LIPITOR.570	ADR	158,162,185,189	hair loss	
+LIPITOR.570	ADR	40,44,54,62	Hair breakage	
+LIPITOR.573	ADR	0,6,17,25,26,30	Muscle aches in arms	
+LIPITOR.573	ADR	0,6,17,25,32,38	Muscle aches in elbows	
+LIPITOR.573	ADR	0,6,17,25,44,50	Muscle aches in calves	
+LIPITOR.573	ADR	11,16,17,25,32,38	joint aches in elbows	
+LIPITOR.573	ADR	11,16,17,25,44,50	joint aches in calves	
+LIPITOR.574	ADR	59,70,94,100,109,115	muscle pain in the calves	
+LIPITOR.574	ADR	59,70,94,100,120,126	muscle pain in the thighs	
+LIPITOR.574	ADR	59,70,94,100,143,147	muscle pain in the back	
+LIPITOR.574	ADR	59,70,94,100,152,156	muscle pain in the neck	
+LIPITOR.574	ADR	59,70,94,100,101,107	muscle pain in the glutes	
+LIPITOR.575	ADR	22,30,44,46,47,64	Numbness on left side of face	
+LIPITOR.575	ADR	22,30,44,46,69,77	Numbness on left arm	
+LIPITOR.575	ADR	35,43,44,46,69,77	tingling on left arm	
+LIPITOR.576	ADR	457,463,474,488	aching (like the flu)	
+LIPITOR.579	ADR	336,342,349,353	yellow eyes	
+LIPITOR.582	ADR	44,48,59,63	feet pain	
+LIPITOR.585	ADR	72,79,89,95	swollen ankles	
+LIPITOR.586	ADR	72,79,89,95	swollen ankles	
+LIPITOR.588	ADR	0,7,13,23	Pain in lower back	
+LIPITOR.588	ADR	0,7,25,30	Pain in knees	
+LIPITOR.588	ADR	0,7,33,38	Pain in elbow	
+LIPITOR.588	ADR	40,52,68,72	Stiffness in legs	
+LIPITOR.59	ADR	100,114,123,128	Weak & wobbley knees	
+LIPITOR.59	ADR	100,114,131,137	Weak & wobbley wrists	
+LIPITOR.59	ADR	2232,2243,2254,2258	weakness in back	
+LIPITOR.591	ADR	441,452,464,469	very severe pains	
+LIPITOR.592	ADR	70,74,102,106	foot pain	
+LIPITOR.592	ADR	76,80,102,106	shin pain	
+LIPITOR.592	ADR	82,86,102,106	knee pain	
+LIPITOR.592	ADR	88,93,102,106	thigh pain	
+LIPITOR.592	ADR	108,116,131,135	shoulder pain	
+LIPITOR.592	ADR	118,121,131,135	arm pain	
+LIPITOR.593	ADR	67,70,80,84	hip pain	
+LIPITOR.593	ADR	71,74,80,84	leg pain	
+LIPITOR.596	ADR	74,79,93,97	ANKLE PAIN	
+LIPITOR.596	ADR	81,85,93,97	CALF PAIN	
+LIPITOR.6	ADR	440,458,489,499	severe pain in the upper back	
+LIPITOR.6	ADR	440,458,504,508	severe pain in the neck	
+LIPITOR.6	ADR	514,518,539,543	pain neck	
+LIPITOR.6	ADR	523,532,539,543	stiffness neck	
+LIPITOR.6	ADR	838,842,866,870	pain neck	
+LIPITOR.6	ADR	847,856,866,870	stiffness neck	
+LIPITOR.6	ADR	875,886,900,904	pain in the back	
+LIPITOR.603	ADR	116,127,141,145	extreme leg pain	
+LIPITOR.61	ADR	64,69,76,82	stiff joints	
+LIPITOR.613	ADR	101,117,137,146	horrible pain in left knee	
+LIPITOR.614	ADR	374,378,409,429	pain around the hipjoints	
+LIPITOR.616	ADR	159,176,186,194	muscle spasmns in left arm	
+LIPITOR.616	ADR	209,213,221,231,232,251	felt like I had a veil over my head	
+LIPITOR.616	ADR	209,213,221,231,256,271	felt like I had lead in my legs	
+LIPITOR.617	ADR	37,54,61,66	terrible pains in ankle	
+LIPITOR.617	ADR	37,54,68,75	terrible pains in big toe	
+LIPITOR.617	ADR	77,85,86,90,105,116	Couldn't walk comfortably	
+LIPITOR.617	ADR	77,85,99,104,105,116	Couldn't sleep comfortably	
+LIPITOR.617	ADR	401,432,446,460	weird symptoms (eg. popping) in big toe joints	
+LIPITOR.617	ADR	401,432,439,444	weird symptoms (eg. popping) in ankle	
+LIPITOR.618	ADR	0,7,17,21	pain in foot	
+LIPITOR.619	ADR	0,16,26,35	Terrible pain in shoulders	
+LIPITOR.619	ADR	217,221,228,231	pain bad	
+LIPITOR.620	ADR	7,15,24,26,27,31	Tingling in arms	
+LIPITOR.620	ADR	7,15,24,26,36,40	Tingling in legs	
+LIPITOR.620	ADR	7,15,24,26,45,57	Tingling in back of neck	
+LIPITOR.620	ADR	16,23,24,26,36,40	burning in legs	
+LIPITOR.620	ADR	16,23,24,26,45,57	burning in back of neck	
+LIPITOR.621	ADR	45,53,63,79	Tingling in toes and feet	
+LIPITOR.633	ADR	28,34,46,52	mussel cramps	
+LIPITOR.634	ADR	0,8,23,41	Cramping of the leg muscles	
+LIPITOR.642	ADR	0,8,26,35	Aches in hip joint	
+LIPITOR.643	ADR	118,122,134,145	legs ache so bad	
+LIPITOR.646	ADR	448,452,461,467	Hand cramps	
+LIPITOR.646	ADR	625,643,661,667	inflammation of my joints	
+LIPITOR.646	ADR	789,811,818,824	General weakness in my calves	
+LIPITOR.646	ADR	789,811,830,835	General weakness in my hands	
+LIPITOR.646	ADR	840,848,861,884	tingling in the soles of my feet	
+LIPITOR.65	ADR	29,35,46,50	muscle pain	
+LIPITOR.652	ADR	245,262,273,278	tingly feeling in scalp	
+LIPITOR.653	ADR	0,6,15,19	Muscle pain	
+LIPITOR.656	ADR	75,81,97,105	speech problems	
+LIPITOR.656	ADR	202,208,229,235	speech so bad	
+LIPITOR.656	ADR	213,223,229,235	swallowing so bad	
+LIPITOR.656	ADR	620,626,642,650	speech problems	
+LIPITOR.66	ADR	0,6,18,22	muscle pain	
+LIPITOR.66	ADR	138,144,155,159	muscle pain	
+LIPITOR.661	ADR	207,226,236,242	terrible pain in my ankles	
+LIPITOR.661	ADR	683,687,699,703	sore legs	
+LIPITOR.662	ADR	63,69,76,80,89,91,92,96	muscle pain in legs	
+LIPITOR.662	ADR	70,75,76,80,89,91,92,96	joint pain in legs	
+LIPITOR.662	ADR	63,69,76,80,89,91,98,104	muscle pain in thighs	
+LIPITOR.662	ADR	63,69,76,80,89,91,106,112	muscle pain in calves	
+LIPITOR.662	ADR	70,75,76,80,89,91,98,104	joint pain in thighs	
+LIPITOR.662	ADR	70,75,76,80,89,91,106,112	joint pain in calves	
+LIPITOR.665	ADR	215,219,231,235	pain back	
+LIPITOR.665	ADR	631,648,690,722	couldn't remember who I had dinner with last night	
+LIPITOR.668	ADR	46,51,57,61	pains neck	
+LIPITOR.668	ADR	71,78,100,104	fingers hurt	
+LIPITOR.668	ADR	79,83,100,104	toes hurt	
+LIPITOR.668	ADR	84,88,100,104	head hurt	
+LIPITOR.668	ADR	89,94,100,104	chest hurt	
+LIPITOR.669	ADR	46,51,57,61	pains neck	
+LIPITOR.669	ADR	71,78,100,104	fingers hurt	
+LIPITOR.669	ADR	79,83,100,104	toes hurt	
+LIPITOR.669	ADR	84,88,100,104	head hurt	
+LIPITOR.669	ADR	89,94,100,104	chest hurt	
+LIPITOR.670	ADR	0,25,37,39,40,46	Very painful muscle aches in calves	
+LIPITOR.670	ADR	0,25,37,39,51,61	Very painful muscle aches in lower back	
+LIPITOR.671	ADR	0,15,27,33	muscle aches in thighs	
+LIPITOR.671	ADR	136,152,160,162,163,169	Muscle twitching on calves	
+LIPITOR.671	ADR	136,152,160,162,174,188	Muscle twitching on bottom of feet	
+LIPITOR.671	ADR	190,215,240,250	Deeper muscle twitches on arms sides	
+LIPITOR.671	ADR	190,215,251,255	Deeper muscle twitches on butt	
+LIPITOR.672	ADR	12,17,22,26	joint pain	
+LIPITOR.672	ADR	354,376,383,388	loss of muscle mass in hands	
+LIPITOR.672	ADR	354,376,393,397	loss of muscle mass in face	
+LIPITOR.684	ADR	27,51,63,82	loss of muscle structure in the calf muscles	
+LIPITOR.688	ADR	321,338,348,373	excrutiation pain throughout my entire body	
+LIPITOR.691	ADR	92,96,119,125	pain wrists	
+LIPITOR.691	ADR	92,96,130,134	pain hips	
+LIPITOR.699	ADR	211,215,225,229	back pain	
+LIPITOR.7	ADR	84,95,100,106	joint pains severe	
+LIPITOR.70	ADR	186,196,214,219	fingertips scaly	
+LIPITOR.701	ADR	0,21,35,39	severe muscle pain in neck	
+LIPITOR.701	ADR	0,21,44,49	severe muscle pain in elbow	
+LIPITOR.703	ADR	233,239,252,256	joints hurt	
+LIPITOR.705	ADR	213,218,227,238	wrist joints sore	
+LIPITOR.708	ADR	1241,1251,1260,1266	pain in my calves	
+LIPITOR.708	ADR	1241,1251,1271,1279	pain in my buttocks	
+LIPITOR.709	ADR	20,26,37,41	muscle pain	
+LIPITOR.710	ADR	193,198,215,224	Can't bend over	
+LIPITOR.711	ADR	15,19,47,51	back ache	
+LIPITOR.711	ADR	24,28,47,51	neck ache	
+LIPITOR.712	ADR	0,19,26,31	Very severe pain in knees	
+LIPITOR.712	ADR	0,19,33,38	Very severe pain in hands	
+LIPITOR.713	ADR	611,633,653,661	impaired my ability to exercise	
+LIPITOR.715	ADR	113,117,127,136	neck stiffness	
+LIPITOR.717	ADR	0,22,32,41	extreme muscle pain in shoulders	
+LIPITOR.723	ADR	12,26,38,42	muscle pain in hips	
+LIPITOR.723	ADR	12,26,47,51	muscle pain in feet	
+LIPITOR.73	ADR	92,100,107,111	pains in legs	
+LIPITOR.73	ADR	92,100,113,118	pains in hands	
+LIPITOR.73	ADR	123,127,132,149	Lost muscular strength	
+LIPITOR.73	ADR	180,193,207,213	problems with memory	
+LIPITOR.730	ADR	304,308,321,360	Pain in both quads (above knee, back of leg)	
+LIPITOR.730	ADR	600,607,618,622	pain in neck	
+LIPITOR.730	ADR	600,607,628,643	pain in both upper legs	
+LIPITOR.730	ADR	1189,1197,1204,1208	legs are sore	
+LIPITOR.731	ADR	65,71,72,79,89,103	muscle fatigue in my forearms	
+LIPITOR.731	ADR	65,71,80,88,89,103	muscle soreness in my forearms	
+LIPITOR.732	ADR	0,8,17,19,20,28	Numbness in left toe	
+LIPITOR.732	ADR	0,8,17,19,39,48	Numbness in right toe	
+LIPITOR.732	ADR	0,8,17,19,62,70	Numbness in all toes	
+LIPITOR.739	ADR	0,22,34,41	Chronic pain in all my muscles	
+LIPITOR.739	ADR	195,200,212,216	joint pain	
+LIPITOR.739	ADR	295,301,318,322	thighs sore	
+LIPITOR.74	ADR	152,159,169,173	Pain in back	
+LIPITOR.745	ADR	20,26,36,44	muscle problems	
+LIPITOR.746	ADR	63,93,100,104	debilitating muscle pain in my legs	
+LIPITOR.746	ADR	63,93,109,113	debilitating muscle pain in my back	
+LIPITOR.746	ADR	148,169,179,183	severe cramping in my back	
+LIPITOR.748	ADR	0,13,23,29	aching joints elbows	
+LIPITOR.748	ADR	0,13,15,21	aching joints wrists	
+LIPITOR.748	ADR	0,13,31,40	aching joints shoulders	
+LIPITOR.748	ADR	0,13,42,47	aching joints knees	
+LIPITOR.750	ADR	0,25,35,39	Slight muscle soreness in legs	
+LIPITOR.750	ADR	41,57,68,74	Major sorness in elbows	
+LIPITOR.750	ADR	496,500,515,534	knee throbbing with pain	
+LIPITOR.753	ADR	24,28,34,38	sore legs	
+LIPITOR.755	ADR	9,16,32,36	stomach pain	
+LIPITOR.757	ADR	80,88,102,113	eyesight very blurry	
+LIPITOR.760	ADR	215,219,232,246	pain in right thigh	
+LIPITOR.761	ADR	0,22,32,41	aches and pain in both shoulders	
+LIPITOR.763	ADR	56,59,71,75	hip pain	
+LIPITOR.763	ADR	60,64,71,75	knee pain	
+LIPITOR.764	ADR	113,130,140,147	Right knee always swollen	
+LIPITOR.769	ADR	99,105,111,117	joints aching	
+LIPITOR.770	ADR	20,24,29,35	calf cramps	
+LIPITOR.773	ADR	0,21,28,32	extremly bad pains in arms	
+LIPITOR.773	ADR	0,21,33,42	extremly bad pains in shoulders	
+LIPITOR.773	ADR	159,176,183,187	very bad pains in arms	
+LIPITOR.773	ADR	159,176,192,201	very bad pains in shoulders	
+LIPITOR.775	ADR	0,6,17,21	Muscle pain	
+LIPITOR.776	ADR	0,9,20,24	Eczema on feet	
+LIPITOR.782	ADR	187,191,204,219	pain behind the knee	
+LIPITOR.784	ADR	42,46,60,73	pain in my fingers	
+LIPITOR.786	ADR	381,389,413,431	hurts to get out of a chair	
+LIPITOR.786	ADR	381,389,433,445	hurts to go up stairs	
+LIPITOR.786	ADR	481,491,520,525	right foot hurts	
+LIPITOR.786	ADR	579,595,606,612	extremely tender calves	
+LIPITOR.790	ADR	0,12,31,35	Severe elbow pain	
+LIPITOR.790	ADR	14,17,31,35	arm pain	
+LIPITOR.790	ADR	209,219,229,237	pain in my shoulder	
+LIPITOR.790	ADR	399,402,411,415	arm pain	
+LIPITOR.794	ADR	0,6,16,18,19,23	Aching in legs	
+LIPITOR.794	ADR	0,6,16,18,24,28	Aching in back	
+LIPITOR.794	ADR	0,6,16,18,33,42	Aching in shoulders	
+LIPITOR.794	ADR	7,15,16,18,24,28	weakness in back	
+LIPITOR.794	ADR	7,15,16,18,33,42	weakness in shoulders	
+LIPITOR.795	ADR	5,10,12,17	aches knees	
+LIPITOR.795	ADR	5,10,19,23	aches back	
+LIPITOR.795	ADR	5,10,39,44	aches chest	
+LIPITOR.796	ADR	408,416,436,468	thinning at the back and sides of my head	
+LIPITOR.798	ADR	63,69,70,73,83,88	SEVERE leg pains	
+LIPITOR.798	ADR	63,69,78,82,83,88	SEVERE foot pains	
+LIPITOR.798	ADR	102,109,122,130	balance problems	
+LIPITOR.798	ADR	163,167,195,209	Pain trying to walk	
+LIPITOR.8	ADR	0,4,22,26	Back pain	
+LIPITOR.8	ADR	6,15,22,26	hip thigh pain	
+LIPITOR.80	ADR	95,100,112,116	Joint Pain	
+LIPITOR.801	ADR	22,28,38,69	finger joint pain similar to arthritis	
+LIPITOR.801	ADR	18,21,38,69	Leg joint pain similar to arthritis	
+LIPITOR.811	ADR	54,68,75,84	muscle pain in right hip	
+LIPITOR.814	ADR	289,293,302,324	arms have little or no grip	
+LIPITOR.816	ADR	0,15,25,34	EXTREME PAIN IN SHOULDERS	
+LIPITOR.818	ADR	441,452,462,467	weakness in knees	
+LIPITOR.820	ADR	3,10,26,30	fingers hurt	
+LIPITOR.821	ADR	702,713,726,752	muscle pain just below shoulder blades	
+LIPITOR.822	ADR	0,20,35,39	EXCRUCIATING PAIN IN NECK	
+LIPITOR.823	ADR	38,47,58,65	Legs feel swollen	
+LIPITOR.823	ADR	67,85,95,116	Neck and shoulders are sore all the time	
+LIPITOR.824	ADR	733,742,763,774	destroyed my sex life	
+LIPITOR.834	ADR	52,60,75,80	tingling hands	
+LIPITOR.834	ADR	65,73,75,80	numbness hands	
+LIPITOR.834	ADR	52,60,82,86	tingling legs	
+LIPITOR.834	ADR	52,60,88,92	tingling face	
+LIPITOR.834	ADR	65,73,82,86	numbness legs	
+LIPITOR.834	ADR	65,73,88,92	numbness face	
+LIPITOR.834	ADR	249,256,266,292	thought that I was having a stroke	
+LIPITOR.839	ADR	20,24,38,42	neck pain	
+LIPITOR.84	ADR	175,181,192,201	muscle stiffness	
+LIPITOR.840	ADR	13,37,52,57	Severe joint pain in the knees	
+LIPITOR.840	ADR	59,63,77,82,83,88	Pain in my hands	
+LIPITOR.840	ADR	59,63,77,82,93,103	Pain in my lower legs	
+LIPITOR.840	ADR	68,76,77,82,93,103	cramping in my lower legs	
+LIPITOR.840	ADR	105,126,143,147	Numbness in all of my toes	
+LIPITOR.840	ADR	487,493,503,511	finger numbness	
+LIPITOR.841	ADR	0,19,30,36	Severe pain in both thighs	
+LIPITOR.841	ADR	47,56,97,111	unable to get in the car	
+LIPITOR.841	ADR	47,56,73,88	unable to put on my pants	
+LIPITOR.842	ADR	91,101,114,125	joint pain in my knees	
+LIPITOR.842	ADR	680,685,692,696	knees hurt	
+LIPITOR.844	ADR	176,182,189,193	muscle pain	
+LIPITOR.845	ADR	30,47,57,61	severe pain in my legs	
+LIPITOR.849	ADR	255,272,284,289	severe pain in my knees	
+LIPITOR.85	ADR	41,54,63,76	problems with concentration	
+LIPITOR.850	ADR	0,5,17,21	Joint Pain	
+LIPITOR.850	ADR	10,16,24,33	Muscle Stiffness	
+LIPITOR.850	ADR	0,5,24,33	Joint Stiffness	
+LIPITOR.851	ADR	39,53,59,63	severe pain in hips	
+LIPITOR.851	ADR	39,53,66,70	severe pain in legs	
+LIPITOR.851	ADR	197,206,224,226,227,236	stiffness in both legs	
+LIPITOR.851	ADR	197,206,224,226,238,242	stiffness in hips	
+LIPITOR.851	ADR	208,216,224,226,227,236	weakness in both legs	
+LIPITOR.851	ADR	208,216,224,226,238,242	weakness in hips	
+LIPITOR.851	ADR	219,223,224,226,238,242	pain in hips	
+LIPITOR.853	ADR	80,83,101,109	arm weakness	
+LIPITOR.856	ADR	408,421,429,433	Joint pain in hips	
+LIPITOR.856	ADR	408,421,438,444	Joint pain in elbows	
+LIPITOR.858	ADR	28,32,41,46	sore knees	
+LIPITOR.858	ADR	28,32,51,58	sore fingers	
+LIPITOR.859	ADR	329,342,350,354	Joint pain in hips	
+LIPITOR.859	ADR	329,342,359,365	Joint pain in elbows	
+LIPITOR.867	ADR	65,72,78,94	burning feet in toe area	
+LIPITOR.868	ADR	17,22,34,38	joint pain	
+LIPITOR.873	ADR	160,169,187,201	unable to get out of bed	
+LIPITOR.88	ADR	0,8,22,27	tingling hands	
+LIPITOR.882	ADR	55,61,71,79	muscle soreness	
+LIPITOR.884	ADR	182,201,209,212	Neuropothy in right arm	
+LIPITOR.886	ADR	0,14,28,36	severe pain in left leg	
+LIPITOR.898	ADR	607,617,632,640	leg muscle inflamed	
+LIPITOR.899	ADR	814,820,831,835	muscle pain	
+LIPITOR.900	ADR	7,22,31,35	extreme pain in legs	
+LIPITOR.903	ADR	17,23,37,45	tendon ruptures	
+LIPITOR.903	ADR	322,351,365,411	tore my right Achilles tendon just simply taking off from a sprinters stance	
+LIPITOR.903	ADR	420,448,461,489	tore my left Achilles tendon by simply jumping in the air	
+LIPITOR.906	ADR	78,93,117,125	extreme ache in left leg	
+LIPITOR.908	ADR	0,17,22,26	shrinking muscels arms	
+LIPITOR.908	ADR	0,17,27,31	shrinking muscels neck	
+LIPITOR.908	ADR	93,100,110,116	loss of memory	
+LIPITOR.913	ADR	13,24,41,45	severe neck pain	
+LIPITOR.913	ADR	26,34,41,45	shoulder pain	
+LIPITOR.914	ADR	0,3,18,22	Hip pain	
+LIPITOR.914	ADR	5,8,18,22	leg pain	
+LIPITOR.917	ADR	13,22,28,36	stiffness in hands	
+LIPITOR.917	ADR	156,160,175,179	neck pain	
+LIPITOR.92	ADR	17,28,35,39	weakness in arms	
+LIPITOR.92	ADR	17,28,41,50	weakness in shoulders	
+LIPITOR.92	ADR	17,28,52,62	weakness in upper back	
+LIPITOR.92	ADR	17,28,64,68	weakness in legs	
+LIPITOR.92	ADR	583,586,596,611	CPK mildly elevated	
+LIPITOR.92	ADR	1216,1220,1237,1244	toes painful	
+LIPITOR.920	ADR	13,19,29,37	muscle weakness	
+LIPITOR.920	ADR	123,136,148,156	liver enzymes sky-high	
+LIPITOR.923	ADR	169,173,181,215	walk was a very painful and a very slow	
+LIPITOR.925	ADR	119,127,139,147	Bleeding problems	
+LIPITOR.926	ADR	0,6,16,24	muscle weakness	
+LIPITOR.926	ADR	220,227,235,245	muscles very tight	
+LIPITOR.926	ADR	255,259,276,281	neck stiff	
+LIPITOR.926	ADR	340,361,375,400	pain has gone into my upper arm on my left side	
+LIPITOR.927	ADR	39,57,67,71	persistent pain in knee	
+LIPITOR.928	ADR	90,104,111,115	tingling in my legs	
+LIPITOR.928	ADR	90,104,120,127	tingling in my fingers	
+LIPITOR.932	ADR	157,161,175,187	pain in left foot	
+LIPITOR.935	ADR	395,416,427,443	muscles of whole body dilution in size	
+LIPITOR.936	ADR	0,7,18,22	Swollen feet	
+LIPITOR.936	ADR	0,7,27,33	Swollen ankles	
+LIPITOR.936	ADR	10,17,27,33	burning ankles	
+LIPITOR.936	ADR	90,118,144,152	Constant pins and needles in the toes	
+LIPITOR.937	ADR	123,132,146,159	hands are somewhat numb	
+LIPITOR.940	ADR	0,7,20,37	tremors although the body	
+LIPITOR.941	ADR	27,45,56,60	joint stiffness in feet	
+LIPITOR.944	ADR	86,90,159,172	eyes microabrasion	
+LIPITOR.951	ADR	32,47,57,61	severe shoulder pain	
+LIPITOR.954	ADR	613,618,625,629	Hands sore	
+LIPITOR.957	ADR	181,185,190,196	foot cramps	
+LIPITOR.957	ADR	760,768,775,784	legs are very weak	
+LIPITOR.965	ADR	0,17,28,32	Joint pain in the hips	
+LIPITOR.965	ADR	208,212,235,239	legs ache	
+LIPITOR.965	ADR	215,224,235,239	shoulders ache	
+LIPITOR.965	ADR	250,260,264,275	acute pain in the legs	
+LIPITOR.965	ADR	589,592,606,610	leg pain	
+LIPITOR.966	ADR	22,31,33,38	back pain Lower	
+LIPITOR.966	ADR	22,31,43,48	back pain upper	
+LIPITOR.966	ADR	226,229,239,243	leg pain	
+LIPITOR.968	ADR	31,38,48,52	pain in legs	
+LIPITOR.972	ADR	1610,1619,1627,1639	unable to feed himself	
+LIPITOR.977	ADR	0,6,13,18	Muscle pains	
+LIPITOR.979	ADR	0,7,18,23	Swollen knees	
+LIPITOR.979	ADR	0,7,28,34	Swollen elbows	
+LIPITOR.979	ADR	12,17,28,34	stiff elbows	
+LIPITOR.979	ADR	184,189,227,232	knees stiff	
+LIPITOR.979	ADR	184,189,237,241	knees sore	
+LIPITOR.979	ADR	194,200,227,232	elbows stiff	
+LIPITOR.979	ADR	194,200,237,241	elbows sore	
+LIPITOR.980	ADR	84,98,108,112	tingling in my legs	
+LIPITOR.987	ADR	310,316,327,331	muscle pain	
+LIPITOR.987	ADR	468,488,498,502	blisterey rash on my legs	
+LIPITOR.989	ADR	30,46,53,57	muscle cramps in feet	
+LIPITOR.989	ADR	30,46,59,63	muscle cramps in arms	
+LIPITOR.989	ADR	30,46,65,69	muscle cramps in ribs	
+LIPITOR.989	ADR	30,46,71,75	muscle cramps in face	
+LIPITOR.989	ADR	345,356,376,383	severe pain muscles	
+LIPITOR.989	ADR	361,372,376,383	weakness in muscles	
+LIPITOR.989	ADR	345,356,400,404	severe pain legs	
+LIPITOR.989	ADR	361,372,400,404	weakness in legs	
+LIPITOR.992	ADR	0,21,36,40	muscle wasting in the arms	
+LIPITOR.994	ADR	46,54,68,73,74,78	tingling in my feet	
+LIPITOR.994	ADR	46,54,68,73,83,88	tingling in my shins	
+LIPITOR.994	ADR	59,67,68,73,83,88	numbness in my shins	
+LIPITOR.994	ADR	299,327,337,341	sensations of tingling in my feet	
+LIPITOR.997	ADR	0,7,19,26	Pain in muscles	
+LIPITOR.997	ADR	0,7,38,43	Pain in knees	
+LIPITOR.997	ADR	0,7,45,51	Pain in ankles	
+LIPITOR.997	ADR	0,7,52,56	Pain in feet	
+LIPITOR.997	ADR	0,7,63,72	Pain in shoulders	
+LIPITOR.997	ADR	0,7,77,83	Pain in elbows	
+LIPITOR.997	ADR	0,7,57,62	Pain in wrist	
+VOLTAREN-XR.20	ADR	364,369,376,387	ulcer lower bowel	
+VOLTAREN.10	ADR	5,10,17,24	rough stomach	
+VOLTAREN.21	ADR	232,242,249,257	sharp pain shoulder	
+VOLTAREN.25	ADR	122,139,144,156	genitals and lips excruciating	
+VOLTAREN.34	ADR	215,221,249,256	pain i stomach	
+VOLTAREN.35	ADR	246,255,263,278	skin rash back of my neck	
+VOLTAREN.8	ADR	348,355,366,370	pain in back	
+ZIPSOR.2	ADR	98,104,111,116	throat hurts	
