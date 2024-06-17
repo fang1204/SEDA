@@ -1,4 +1,4 @@
- # Self-Adapted Entity-Centric Data Augmentation for Discontinuous Named Entity Recognition
+# Self-Adapted Entity-Centric Data Augmentation for Discontinuous Named Entity Recognition
 
 ## 1. Environments
 
